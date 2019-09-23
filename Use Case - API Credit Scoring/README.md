@@ -28,9 +28,9 @@
 
 - Jalankan Anaconda Prompt dan ikuti prosedur di bawah ini:
   1. Pindahkan direktori aktif Anaconda Prompt ke folder repositori anda.
-  2. Jalankan dengan mengetik `python app.py` (ini bisa dikatakan **`testing model`**)
+  2. Jalankan dengan mengetik **`python app.py`** (ini bisa dikatakan **`testing model`**)
   3. Setelah itu, file .pkl akan terbentuk di folder yang sama.
-  4. Setelah berhasil, jalankan `python deploy.py`
+  4. Setelah berhasil, jalankan **`python deploy.py`**
   
 ================================================================================ 
 
