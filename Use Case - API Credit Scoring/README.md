@@ -18,7 +18,7 @@
 
 ### Code dan Dataset
 
-- Dataset diambil dari [Kaggle](https://www.kaggle.com/brycecf/give-me-some-credit-dataset "Give Me Some Credit")
+- Dataset diambil dari [Kaggle](https://www.kaggle.com/brycecf/give-me-some-credit-dataset "Give Me Some Credit") | *"Give Me Some Credit*
 - Model digunakan adalah model prediksi dengan model Gaussian Naive Bayes (`GaussianNB()`)
 - Repository terdiri dari `app.py`, `requirements.txt`, `deploy.py`, dan `model.pkl`.
 
