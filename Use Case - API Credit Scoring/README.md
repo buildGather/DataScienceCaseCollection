@@ -4,7 +4,7 @@
 - Deployment kali ini menggunakan web **framework Flask**.
 
 ### Requirements
-#### Tambahan module dari materi hari ini,
+#### Tambahan module/package dari materi hari ini,
 #### Wajib install `pip install flask-restplus`
 
 ```
