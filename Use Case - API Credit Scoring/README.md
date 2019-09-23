@@ -51,7 +51,7 @@
   - `Rasio Total Tagihan dibagi Limit` rentang 0 sampai dengan satu (**float**), contoh 0.67
   - `Usia` bilangan bulat (**integer**)
   - `Jumlah Terlambat 30-59 Hari` (**integer**) -> Berapa kali terlambat? 1 apabila 1 kali, 2 apabila 2 kali, dst
-  - `Rasio Hutang` rentang 0 sampai dengan satu (**float**), contoh 0.54
+  - `Rasio Hutang` rentang 0 sampai dengan 1 (**float**), contoh 0.54
   - `Pendapatan per Bulan` (**integer**)
   - `Hutang Tertanggung` (**integer**) -> jumlah hutang yang dimiliki, misalnya hutang kpr dan mobil, ditulis 2 (dua)
   - `Jumlah Terlambat 90 Hari` (**integer**) -> Berapa kali terlambat? 1 apabila 1 kali, 2 apabila 2 kali, dst
