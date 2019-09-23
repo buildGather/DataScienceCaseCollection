@@ -23,7 +23,7 @@
 - Model digunakan adalah model prediksi dengan model Gaussian Naive Bayes (`GaussianNB()`)
 - Repository terdiri dari `app.py`, `requirements.txt`, `deploy.py`, dan `model.pkl`.
 
-================================================================================
+===============================================================================
 
 ### Dumping/Menyimpan File Pickle as Model
 
@@ -33,7 +33,7 @@
   3. Setelah itu, file .pkl akan terbentuk di folder yang sama.
   4. Setelah berhasil, jalankan **`python deploy.py`**
   
-================================================================================ 
+=============================================================================== 
 
 ### Akses Deployed Model di http://localhost:5000 (Default)
 
@@ -66,7 +66,7 @@
 
 **SELESAI!**
 
-================================================================================ 
+=============================================================================== 
 
 ### Interpretasi Hasil
 
