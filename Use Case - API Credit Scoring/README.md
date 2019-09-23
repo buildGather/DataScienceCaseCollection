@@ -39,7 +39,7 @@
 - Langkah selanjutnya, anda bisa melanjutkan proses dengan mengetikkan `localhost:5000` di web anda (rekomendasi Google Chrome)
 - Setelah itu akan tampil halaman interaktif yang bisa teman-teman akses seperti berikut ini,
 ![Langkah 1](https://github.com/buildGather/ADSB2-Iykra/blob/master/Use%20Case%20-%20API%20Credit%20Scoring/Process/1.PNG)
-- Setelah itu teman-teman bisa klik tulisan `Penerimaan Kredit - Credit Approval` sehingga muncul tampilan sebagai berikut,
+- Setelah itu teman-teman bisa klik tulisan **`Penerimaan Kredit - Credit Approval`** sehingga muncul tampilan sebagai berikut,
 ![Langkah 2](https://github.com/buildGather/ADSB2-Iykra/blob/master/Use%20Case%20-%20API%20Credit%20Scoring/Process/2.PNG)
 - Lalu, sila teman-teman klik tulisan hijau tersebut untuk membuka form pengisian data prediksi, tampilan seperti berikut ini,
 ![Langkah 3](https://github.com/buildGather/ADSB2-Iykra/blob/master/Use%20Case%20-%20API%20Credit%20Scoring/Process/3.PNG)
