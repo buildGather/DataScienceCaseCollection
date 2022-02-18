@@ -1,3 +1,4 @@
 # Task Collection - ADSB 2
-## Enhanced by
-## Andi Isra - *buildgather*
+Collection of all this user's learning process through Data Analysis and Data Scientist.
+
+*Enhanched by: *buildgather**
